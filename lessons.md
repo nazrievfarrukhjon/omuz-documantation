@@ -1,1 +1,2 @@
-main:v1.0.0
+main:v1.0.1
+- bugfix lesson name
