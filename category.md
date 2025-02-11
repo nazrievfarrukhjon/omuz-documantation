@@ -1,3 +1,2 @@
 main:v1.0.0
-farruq
-
+my name is abdukarim
